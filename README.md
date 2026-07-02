@@ -55,3 +55,6 @@ Durante este proyecto practiqué:
 ##  Autor
 
 Desarrollado por Mateo - Forvex
+
+## Enlace
+https://foronda1511.github.io/Landing-page-gamer/
